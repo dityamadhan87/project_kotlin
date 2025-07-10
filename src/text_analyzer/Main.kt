@@ -52,4 +52,5 @@ fun main(){
     println("Apakah input adalah palindrom? ${inputText.isPalindrome()}")
 
     println(performComplexAnalysis("Rad%^&555itya Rahmadhani arek guanteng"))
+    println(isValidEmail("edo@gmai.com"))
 }
